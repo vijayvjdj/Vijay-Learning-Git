@@ -1,2 +1,3 @@
 i have writing first code
 i have written second code
+i have enter a code which is moved to main
